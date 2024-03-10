@@ -7,3 +7,6 @@
 
 
 I want to collaborating in many developer, We will be best!
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lectykim&layout=compact&theme=tokyonight)
